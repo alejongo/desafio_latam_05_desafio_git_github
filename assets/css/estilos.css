@@ -11,10 +11,6 @@ body {
   background-position: left;
 }
 
-#hero-section .text-outline-hero:hover {
-  color: aqua !important;
-}
-
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
